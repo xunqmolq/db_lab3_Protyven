@@ -1,8 +1,9 @@
 -- 1 (G column)
--- Вивести різновиди Рамену, які не в упаковці (style не дорівнює Pack)
--- SELECT variety
--- FROM ramen
--- WHERE style != 'Pack'
+-- Вивести оцінки для бренду "Wei Wei" разом з різновидом Рамену
+-- SELECT review.stars AS grade, ramen.variety
+-- FROM ramen NATURAL JOIN review
+-- WHERE ramen.brand_name = 'Wei Wei'
+
 
 
 -- 2 (H column)
