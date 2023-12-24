@@ -23,6 +23,6 @@ VALUES
 	('1 Step-1 Minute Asian Noodles Toasted Sesame', 'Pack', 'USA', 1061, 'Tasty Bite'),
 	('Miso Ramen', 'Pack', 'USA', 1, 'Westbrae'),
 	('Mushroom Pork', 'Pack', 'Vietnam', 7, 'Ve Wong'),
-	('Sutah', 'Cup', 'South Korea', 9, 'Sutah');
+	('Cup Noodle', 'Cup', 'South Korea', 9, 'Sutah');
 
 
